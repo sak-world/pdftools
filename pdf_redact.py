@@ -61,12 +61,12 @@ import argparse
 
 # Add your sensitive terms here before running the script
 sensitive_terms = [
-    "ANATHA KRISHNAN",
-    "ANATM2708754107",
-    "4107YG002826",
-    "4107YG002831",
-    "4107YG002878",
-    "49 Years Male"
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
 ]
 
 parser = argparse.ArgumentParser(description='Redact sensitive info from PDFs.')
